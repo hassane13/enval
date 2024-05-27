@@ -1,0 +1,152 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}      
+body {
+    background-color: #D7ECF1 !important;
+    overflow-x: hidden;
+}
+
+.positionnavbar{
+    width: 100% !important;
+}
+.imgNavbar img{
+    width: 100px;
+
+}
+.toi{
+   padding: 0px; 
+}
+.you{ 
+   margin: 0px;    
+ 
+}
+.dashboard{
+    background-color: #ECF9FF !important;
+}
+.derr{
+    background-color: #4A97A7;
+    border-radius: 12px;
+    height: 250px;
+    width: 230px;
+   
+}
+.rien{
+    background-color: #FFFFFF;
+    border-radius: 12px;
+    height: 250px;
+    width: 230px; 
+}
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+:root {
+  --dot-diameter:350px;
+  --circle-border-width:3px;
+  --default-color:gainsboro;
+  font-family:'Lilita One',cursive;
+}
+
+.container {
+  margin:auto;
+  height:79%;
+  width:20%;
+  display:flex;
+  flex-direction:column;
+  justify-items:center;
+  align-content:stretch;
+  align-items:center;
+}
+
+.flex-col {
+  display:flex;
+  flex-direction:column;
+  align-content:stretch;
+  text-align:center;
+  text-transform:uppercase;
+  gap:24px;
+}
+
+svg{
+   
+  
+}
+
+.circle-container {
+  width:var(--dot-diameter);
+  transform:rotate(-225deg);
+  fill:none;
+  stroke-dasharray:81 100;
+  stroke: white;
+  stroke-linecap:round;
+  position:relative;
+}
+
+.circle-container__background{
+  stroke:var(--default-color);
+  stroke-width:var(--circle-border-width);
+  stroke-dasharray:75 100;
+  stroke-linecap:round;  
+}
+
+.circle-container__progress{
+  stroke-dasharray:75 100;
+  stroke-width:var(--circle-border-width);
+}
+.ter{
+  stroke:#7FB2C0;
+}
+.tir{
+  position: absolute;
+  padding-right:9px;
+  text-align:center;
+  margin-top:100px;
+}
+
+.ret{
+  padding-bottom:64px;
+  padding:19px;
+}
+.re{
+  padding-bottom:64px;
+  padding:19px;
+}
+.tu{
+  height:2em;
+  width:7%;
+  border-radius: 12px;
+  background-color:#4FA0AB ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

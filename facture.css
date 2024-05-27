@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: #F6F6F8;
+
+}
+body {
+    background-color: #D7ECF1 !important;
+    overflow-x: hidden;
+}
+
+.positionnavbar{
+    width: 100% !important;
+}
+
+.table{
+    margin-top: 1em;
+}
+
+.imgNavbar img{
+    width: 100px;
+
+}
+.tau{
+    background-color:#57A1AF;
+    border-radius: 7px;
+    width: 95px;
+    border: none;
+}
+.dashboard{
+    background-color: #ECF9FF !important;
+}

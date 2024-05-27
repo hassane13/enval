@@ -1,0 +1,52 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.client{
+     background-color: #D7ECF1;
+     
+}
+.interface{
+    background-color:#DDDDDF;
+}
+.inter{
+    text-align: left;
+}
+.gaz{
+  background-color: #40AC22;  
+}
+.berr{
+    height:36%;
+    width: 36%;
+}
+
+.berr img{
+    width: 100%;
+    height: 100%;
+}
+.bref{
+    text-align: center;
+    
+}
+
+#imgGradiant {
+    width: 36%;
+    height: 22%;
+}
+.conter commentaires{
+    font-size: large;
+      
+}
+.terre{
+    position: absolute;
+   bottom: 0;
+   margin-bottom: 95px;
+}
+.rien{
+    border-radius: 2px;
+   padding: 9px;
+   
+}
+.zerte{
+    background-color: rgb(193, 8, 193);
+}
