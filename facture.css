@@ -29,4 +29,13 @@ body {
 }
 .dashboard{
     background-color: #ECF9FF !important;
+   
 }
+@media (max-width:px) {
+    .positionnavbar{
+        width: 100% !important;
+        
+    }
+    
+}
+
